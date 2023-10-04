@@ -1,9 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Pramod Nipunajith</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDavid8523&psig=AOvVaw2kI4rb-9U1U1BMtg9WUh_P&ust=1696528319976000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjjm9j63IEDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhpramod&label=Profile%20views&color=0e75b6&style=flat" alt="hhpramod" /> </p>
 
@@ -13,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.thecn.com/PN601](https://www.thecn.com/PN601)
 
-- 💬 Ask me about **R Studio, Linear Regression Analysis, Survival Analysis, Theory of Statistics, Multivariates Method, Bayesian Statistics, Actuarial Statistics, Neural Network, Python**
+- 💬 Ask me about **Python, R Studio, Bayesian Statistics, Actuarial Statistics, Neural Network**
 
 - 📫 How to reach me **pramod98nipunajith@gmail.com**
 
@@ -36,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hhpramod&show_icons=true&locale=en" alt="hhpramod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hhpramod&" alt="hhpramod" /></p>
+
+
+
