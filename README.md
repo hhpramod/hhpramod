@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramod Nipunajith</h1>
-<h3 align="center">Inter Data Engineer @ Lanka Education And Research Network</h3>
+<h3 align="center">Intern Data Engineer @ Lanka Education And Research Network</h3>
 <div><p align="left"> <img src="https://komarev.com/ghpvc/?username=hhpramod&label=Profile%20views&color=0e75b6&style=flat" alt="hhpramod" /> </p>
 
 <div style="display: flex; flex-wrap: wrap;">
